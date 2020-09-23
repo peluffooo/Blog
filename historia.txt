@@ -1,3 +1,5 @@
 Hola mi nombre es Juan gonzalez 
 
-Esta es mi historia. 
+Tengo 20 años, vivo en Barranquilla, Colombia
+
+Quiero ser un gran pogramador, esta es mi historia.
